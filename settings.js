@@ -12,7 +12,7 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
+global.owner = "256771975964"
 global.botname = "αrch md"
 global.ownername = ""
 global.simbol = "♘"
@@ -20,7 +20,7 @@ global.typeMenu = 'v1' //don't change
 global.anticall = false // set true to turn anticall always on
 global.prefix = '.' // your desired prefix symbol only
 global.channel = ''
-global.timezone = 'Africa/Lagos'
+global.timezone = 'Africa/kampala'
 global.author = 'Ednut'
 global.packname = 'Arch Md ²⁵'
 
